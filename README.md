@@ -1,6 +1,7 @@
+```
 Here is the updated README in proper markdown format:
 
-```markdown
+markdown
 # Blood Test Analysis and Health Recommendation System
 
 This project uses CrewAI to analyze blood test reports and provide personalized health recommendations. It leverages AI agents to interpret blood test results, search for relevant health information, and compile actionable advice.
@@ -19,6 +20,7 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     git clone https://github.com/Pratyush-12345/Crew_Blood_Report_Agent.git
     ```
+2. Make sure you create virtual enviroment for this project
 
 2. Install the required packages:
     ```bash
