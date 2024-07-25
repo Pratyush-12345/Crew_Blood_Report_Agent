@@ -1,4 +1,4 @@
-```
+
 Here is the updated README in proper markdown format:
 
 markdown
@@ -75,4 +75,4 @@ The `output.md` file will contain:
 - If you encounter PDF processing errors, ensure your PDF file is not corrupted and is readable.
 - If you face API errors, check your Google API key and ensure it has the necessary permissions.
 - For any other issues, check the console output for error messages and ensure all prerequisites are met.
-```
+
